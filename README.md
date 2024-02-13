@@ -1,9 +1,6 @@
 # Zypper Helper for openSUSE
 openSUSE package management toolkit.
 
-![gecko-art](https://github.com/distrohopperuk/gecko-manager/assets/159959630/bc45a67d-885a-444a-8648-f74a4f777413)
-
-
 This repository provides assistance on openSUSE using the Zypper package manager.
 
 ## Features
