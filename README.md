@@ -15,13 +15,15 @@ This repository provides assistance on openSUSE using the Zypper package manager
 
 Simply clone the repo to your system.
 
+> git clone https://github.com/distrohopperuk/gecko-manager.git
+
 Change file permission 
 
--> chmod +x gecko-manager.sh 
+> chmod +x gecko-manager.sh
 
-Run the script 
+Run the script with sudo 
 
--> sudo ./gecko-manager.sh
+> sudo ./gecko-manager.sh
 
 
 This script is a work in progress, with more to be added over time. 
