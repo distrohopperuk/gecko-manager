@@ -11,7 +11,7 @@ echo "
  |___/                                                   |___/           "
 
 echo ""
-echo "		 opensuse (zypper) assistance " 
+echo "		  opensuse (zypper) assistance" 
 sleep 2
 echo ""
 
@@ -19,7 +19,7 @@ echo ""
 
 	if [ "$EUID" -ne 0 ]; then
     	echo ""
-    	echo "			   ARE YOU ROOT??? " 
+    	echo "			   ARE YOU ROOT???" 
     	echo "This script requires elevated privileges to run!"
    	echo ""
    	sleep 2
