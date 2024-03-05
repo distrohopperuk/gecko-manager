@@ -5,6 +5,7 @@ This repository provides assistance on openSUSE using the Zypper package manager
 
 ![opensuse](https://github.com/distrohopperuk/gecko-manager/assets/161962528/8a3a94eb-4828-4fb1-a1d5-1f98c4608b91)
 
+We have made a small YouTube video showcasing the script : https://www.youtube.com/watch?v=2oIbTVoUjS8
 
 ## Features
 
