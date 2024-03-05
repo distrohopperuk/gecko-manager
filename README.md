@@ -3,6 +3,9 @@ openSUSE package management toolkit.
 
 This repository provides assistance on openSUSE using the Zypper package manager.
 
+![opensuse](https://github.com/distrohopperuk/gecko-manager/assets/161962528/8a3a94eb-4828-4fb1-a1d5-1f98c4608b91)
+
+
 ## Features
 
 * Easily update packages, & distribution upgrade.
